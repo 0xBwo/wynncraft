@@ -1,0 +1,1181 @@
+[{
+  "name": "-------------[ Wynn Plains ]------------",
+  "color": "#666666",
+  "icon": "diamond",
+  "visibility": "hidden",
+  "location": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  }
+}, {
+  "name": "Ragni\u0027s Secret Library",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": -931,
+    "y": 67,
+    "z": -1610
+  }
+}, {
+  "name": "Far From the Roots",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": -499,
+    "y": 67,
+    "z": -1630
+  }
+}, {
+  "name": "A Hero\u0027s Origin",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": -909,
+    "y": 61,
+    "z": -1934
+  }
+}, {
+  "name": "Watchman",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": -470,
+    "y": 67,
+    "z": -1557
+  }
+}, {
+  "name": "Boulder Breaker",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": 311,
+    "y": 67,
+    "z": -1413
+  }
+}, {
+  "name": "Historical Maltic",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": -561,
+    "y": 67,
+    "z": -1859
+  }
+}, {
+  "name": "Ruins of Detlas",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": 518,
+    "y": 66,
+    "z": -1604
+  }
+}, {
+  "name": "Water of the Past",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": -317,
+    "y": 67,
+    "z": -1889
+  }
+}, {
+  "name": "Bak\u0027al\u0027s Destrustion 1",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": -132,
+    "y": 66,
+    "z": -1288
+  }
+}, {
+  "name": "Bak\u0027al\u0027s Destruction 2",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": 122,
+    "y": 67,
+    "z": -1534
+  }
+}, {
+  "name": "Bak\u0027al\u0027s Destruction 3",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": -745,
+    "y": 29,
+    "z": -1960
+  }
+}, {
+  "name": "Timeless Ruin",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": -455,
+    "y": 74,
+    "z": -1114
+  }
+}, {
+  "name": "Beneath the Roots",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": 36,
+    "y": 69,
+    "z": -1312
+  }
+}, {
+  "name": "Somewhere In Between",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": -737,
+    "y": 122,
+    "z": -1260
+  }
+}, {
+  "name": "Crate Crane",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": 51,
+    "y": 38,
+    "z": -2239
+  }
+}, {
+  "name": "Wynn Plains Monument",
+  "color": "#99ccff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": -227,
+    "y": 68,
+    "z": -1493
+  }
+}, {
+  "name": "---------------[ Desert ]--------------",
+  "color": "#666666",
+  "icon": "diamond",
+  "visibility": "hidden",
+  "location": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  }
+}, {
+  "name": "Quicksand",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": 1063,
+    "y": 41,
+    "z": -2121
+  }
+}, {
+  "name": "Mining Operation",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": 754,
+    "y": 31,
+    "z": -1168
+  }
+}, {
+  "name": "Temple Ruin",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": 1030,
+    "y": 70,
+    "z": -1834
+  }
+}, {
+  "name": "Boulder Pit",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": 932,
+    "y": 47,
+    "z": -1684
+  }
+}, {
+  "name": "Temple of Swords",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": 1253,
+    "y": 96,
+    "z": -2291
+  }
+}, {
+  "name": "Totem Pole",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": 1409,
+    "y": 84,
+    "z": -1605
+  }
+}, {
+  "name": "Wrecking Ball",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": 1446,
+    "y": 45,
+    "z": -1269
+  }
+}, {
+  "name": "Rymek Thief",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": 1358,
+    "y": 31,
+    "z": -1280
+  }
+}, {
+  "name": "Desert Royal Residence",
+  "color": "#99ccff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": 1194,
+    "y": 75,
+    "z": -1913
+  }
+}, {
+  "name": "-----------[ Nesaak Tundra ]-----------",
+  "color": "#666666",
+  "icon": "diamond",
+  "visibility": "hidden",
+  "location": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  }
+}, {
+  "name": "Explorer\u0027s Corruption Study",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": 6,
+    "y": 76,
+    "z": -1046
+  }
+}, {
+  "name": "Wolf Temple",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": 298,
+    "y": 138,
+    "z": -744
+  }
+}, {
+  "name": "Frozen Cave Hideout",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": -121,
+    "y": 73,
+    "z": -671
+  }
+}, {
+  "name": "Nilrem\u0027s Sealed Letter",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": -209,
+    "y": 61,
+    "z": -696
+  }
+}, {
+  "name": "A Deathly Warning",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": -253,
+    "y": 16,
+    "z": -357
+  }
+}, {
+  "name": "The Lone Telescope",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": -104,
+    "y": 98,
+    "z": -436
+  }
+}, {
+  "name": "Pottery Wheel",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": -403,
+    "y": 83,
+    "z": -551
+  }
+}, {
+  "name": "Torn in Twain",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": 39,
+    "y": 140,
+    "z": -246
+  }
+}, {
+  "name": "Lusuco\u0027s Secret Library",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": -191,
+    "y": 27,
+    "z": -302
+  }
+}, {
+  "name": "The Twains\u0027 Downfall",
+  "color": "#99ccff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": 65,
+    "y": 71,
+    "z": -435
+  }
+}, {
+  "name": "-----------[ Llevigar Plains ]-----------",
+  "color": "#666666",
+  "icon": "diamond",
+  "visibility": "hidden",
+  "location": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  }
+}, {
+  "name": "Teachings of Old",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": -1491,
+    "y": 46,
+    "z": -4927
+  }
+}, {
+  "name": "Abandoned Excavations",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": -2191,
+    "y": 60,
+    "z": -5035
+  }
+}, {
+  "name": "Unstable Experiments",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": -2150,
+    "y": 105,
+    "z": -4487
+  }
+}, {
+  "name": "At the Edge of Decay",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": -2034,
+    "y": 55,
+    "z": -5016
+  }
+}, {
+  "name": "Spider Ruins",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": -1794,
+    "y": 54,
+    "z": -4859
+  }
+}, {
+  "name": "Llevigar\u0027s Secret Library",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": -1849,
+    "y": 87,
+    "z": -4503
+  }
+}, {
+  "name": "Llevigar\u0027s Last Hope",
+  "color": "#99ccff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": -1884,
+    "y": 81,
+    "z": -4519
+  }
+}, {
+  "name": "-------------[ Olux Swamp ]------------",
+  "color": "#666666",
+  "icon": "diamond",
+  "visibility": "hidden",
+  "location": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  }
+}, {
+  "name": "Lost Farmers",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": -1974,
+    "y": 55,
+    "z": -5267
+  }
+}, {
+  "name": "Shrouded Lives",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": -1887,
+    "y": 40,
+    "z": -5470
+  }
+}, {
+  "name": "Harmless Worms",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": -2205,
+    "y": 58,
+    "z": -5342
+  }
+}, {
+  "name": "Decaying Mountains",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": -1890,
+    "y": 101,
+    "z": -5635
+  }
+}, {
+  "name": "Shadowy Dealings",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": -1579,
+    "y": 51,
+    "z": -5579
+  }
+}, {
+  "name": "Empty Vault",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": -1743,
+    "y": 77,
+    "z": -5534
+  }
+}, {
+  "name": "The Bane of Gavel",
+  "color": "#99ccff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": -2196,
+    "y": 64,
+    "z": -5488
+  }
+}, {
+  "name": "------------[ Dark Forest ]------------",
+  "color": "#666666",
+  "icon": "diamond",
+  "visibility": "hidden",
+  "location": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  }
+}, {
+  "name": "Parasite Cocoon",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": -1351,
+    "y": 45,
+    "z": -5502
+  }
+}, {
+  "name": "The Talor Crypt",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": -681,
+    "y": 48,
+    "z": -5318
+  }
+}, {
+  "name": "A Dividing Force",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": -1105,
+    "y": 39,
+    "z": -5159
+  }
+}, {
+  "name": "Hallowed Ground",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": -883,
+    "y": 46,
+    "z": -5514
+  }
+}, {
+  "name": "Headless, Not Homeless",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": -1066,
+    "y": 99,
+    "z": -5595
+  }
+}, {
+  "name": "Summoner\u0027s Fate",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": -1017,
+    "y": 43,
+    "z": -5425
+  }
+}, {
+  "name": "Ways of the Wicked",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": -689,
+    "y": 76,
+    "z": -5615
+  }
+}, {
+  "name": "The Heart of the Decay",
+  "color": "#99ccff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": -583,
+    "y": 54,
+    "z": -5549
+  }
+}, {
+  "name": "------------[ Light Forest ]------------",
+  "color": "#666666",
+  "icon": "diamond",
+  "visibility": "hidden",
+  "location": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  }
+}, {
+  "name": "Temple of Light",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": -676,
+    "y": 13,
+    "z": -4767
+  }
+}, {
+  "name": "Messengers From Beyond",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": -953,
+    "y": 39,
+    "z": -4691
+  }
+}, {
+  "name": "Light Mushrooms",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": -905,
+    "y": 44,
+    "z": -4709
+  }
+}, {
+  "name": "Sealed Away",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": -1090,
+    "y": 58,
+    "z": -4380
+  }
+}, {
+  "name": "Birth of Efilim",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": -1048,
+    "y": 42,
+    "z": -4996
+  }
+}, {
+  "name": "Fracture in Reality",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": -834,
+    "y": 67,
+    "z": -4931
+  }
+}, {
+  "name": "Ne du Valeos du Ellach",
+  "color": "#99ccff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": -1131,
+    "y": 44,
+    "z": -4492
+  }
+}, {
+  "name": "-------------[ Gylia Plains ]------------",
+  "color": "#666666",
+  "icon": "diamond",
+  "visibility": "hidden",
+  "location": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  }
+}, {
+  "name": "The Grand Archive",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": -317,
+    "y": 88,
+    "z": -4880
+  }
+}, {
+  "name": "The Great Barrier",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": -12,
+    "y": 37,
+    "z": -4693
+  }
+}, {
+  "name": "The Ancient Ones",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": -196,
+    "y": 37,
+    "z": -4611
+  }
+}, {
+  "name": "Mark of the Meteors",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": -118,
+    "y": 31,
+    "z": -5503
+  }
+}, {
+  "name": "Gavel Excavation",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": -389,
+    "y": 47,
+    "z": -4940
+  }
+}, {
+  "name": "Gylia Watch Library",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": -28,
+    "y": 29,
+    "z": -5413
+  }
+}, {
+  "name": "Gylia\u0027s Cataclysm",
+  "color": "#99ccff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": -98,
+    "y": 11,
+    "z": -5315
+  }
+}, {
+  "name": "---------[ Canyon of the Lost ]---------",
+  "color": "#666666",
+  "icon": "diamond",
+  "visibility": "hidden",
+  "location": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  }
+}, {
+  "name": "Canyon Housing",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": 601,
+    "y": 58,
+    "z": -5315
+  }
+}, {
+  "name": "Cosmic Crystals",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": 938,
+    "y": 138,
+    "z": -5102
+  }
+}, {
+  "name": "Cracked Canyon",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": 551,
+    "y": 119,
+    "z": -4353
+  }
+}, {
+  "name": "Thanos Armory",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": 82,
+    "y": 7,
+    "z": -5152
+  }
+}, {
+  "name": "Loot of the Lost",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": 389,
+    "y": 52,
+    "z": -4780
+  }
+}, {
+  "name": "The Broken Protector",
+  "color": "#99ccff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": 200,
+    "y": 80,
+    "z": -4935
+  }
+}, {
+  "name": "------------[ Molten Heights ]-----------",
+  "color": "#666666",
+  "icon": "diamond",
+  "visibility": "hidden",
+  "location": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  }
+}, {
+  "name": "Subterranean Creation",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": 1255,
+    "y": 37,
+    "z": -5500
+  }
+}, {
+  "name": "Maex Black Market",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": 1462,
+    "y": 45,
+    "z": -5329
+  }
+}, {
+  "name": "Cultural Artefact",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": 1554,
+    "y": 116,
+    "z": -5058
+  }
+}, {
+  "name": "Sealed in Ice",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": 1538,
+    "y": 108,
+    "z": -5462
+  }
+}, {
+  "name": "Tomb of the Founders",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": 1096,
+    "y": 39,
+    "z": -5291
+  }
+}, {
+  "name": "Chained Goliaths",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": 1077,
+    "y": 139,
+    "z": -5103
+  }
+}, {
+  "name": "The Doguns\u0027 Defeat",
+  "color": "#99ccff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": 1469,
+    "y": 20,
+    "z": -5181
+  }
+}, {
+  "name": "------------[ Sky Islands ]------------",
+  "color": "#666666",
+  "icon": "diamond",
+  "visibility": "hidden",
+  "location": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  }
+}, {
+  "name": "Otherworldly Origins",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": 1318,
+    "y": 62,
+    "z": -4765
+  }
+}, {
+  "name": "Desolate Temples",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": 1112,
+    "y": 122,
+    "z": -4811
+  }
+}, {
+  "name": "The Lonely Abyss",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": 13782,
+    "y": 90,
+    "z": -4051
+  }
+}, {
+  "name": "Ahmsord\u0027s Origins",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": 938,
+    "y": 147,
+    "z": -4566
+  }
+}, {
+  "name": "Colossal Ruins",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": 833,
+    "y": 74,
+    "z": -4675
+  }
+}, {
+  "name": "Ruler of the Skies",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": 1452,
+    "y": 146,
+    "z": -4275
+  }
+}, {
+  "name": "Far Above the Clouds",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": 630,
+    "y": 148,
+    "z": -4590
+  }
+}, {
+  "name": "The Fallen Protector",
+  "color": "#99ccff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": 1222,
+    "y": 140,
+    "z": -4680
+  }
+}, {
+  "name": "--------------[ Corkus ]--------------",
+  "color": "#666666",
+  "icon": "diamond",
+  "visibility": "hidden",
+  "location": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  }
+}, {
+  "name": "Lost Avos City",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": -1526,
+    "y": 67,
+    "z": -3136
+  }
+}, {
+  "name": "Necklace Chamber",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": -1884,
+    "y": 125,
+    "z": -3080
+  }
+}, {
+  "name": "Relos\u0027 Library",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": -1643,
+    "y": 73,
+    "z": -2418
+  }
+}, {
+  "name": "-----------[ Silence Expanse ]----------",
+  "color": "#666666",
+  "icon": "diamond",
+  "visibility": "hidden",
+  "location": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  }
+}, {
+  "name": "Mining Cessation",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": 598,
+    "y": 61,
+    "z": -1077
+  }
+}, {
+  "name": "A Wynnic Excavation",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": 713,
+    "y": 123,
+    "z": -879
+  }
+}, {
+  "name": "Fate of the Olm",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": 484,
+    "y": 80,
+    "z": -939
+  }
+}, {
+  "name": "The Final Moments",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": 656,
+    "y": 133,
+    "z": -409
+  }
+}, {
+  "name": "Otherworldly Occurrence",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": 921,
+    "y": 79,
+    "z": -470
+  }
+}, {
+  "name": "The Forest has Eyes",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": 884,
+    "y": 165,
+    "z": -600
+  }
+}, {
+  "name": "A Monument of Hope",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": 984,
+    "y": 91,
+    "z": -695
+  }
+}, {
+  "name": "Toxic Bounce",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": 1009,
+    "y": 42,
+    "z": -976
+  }
+}, {
+  "name": "Space Between Realities",
+  "color": "#ccffff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": 1180,
+    "y": 138,
+    "z": -1081
+  }
+}, {
+  "name": "Silent Epxanse\u0027s Secret",
+  "color": "#99ccff",
+  "icon": "diamond",
+  "visibility": "default",
+  "location": {
+    "x": 1372,
+    "y": 86,
+    "z": -702
+  }
+}]
